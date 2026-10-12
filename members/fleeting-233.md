@@ -1,6 +1,6 @@
 # 我的个人主页
 
-- 昵称：Fleeting
+- 姓名：吴玲婷
 - GitHub 用户名：fleeting-233
 - 主页仓库：https://github.com/fleeting-233/fleeting-233.github.io
 
